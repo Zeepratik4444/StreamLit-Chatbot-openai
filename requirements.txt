@@ -10,5 +10,4 @@ chromadb
 langchain_huggingface
 bs4
 pypdf
-faiss
 wikipedia

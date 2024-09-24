@@ -1,0 +1,14 @@
+langchain-openai
+langchain
+python-dotenv
+langchain_community
+langchain_core
+streamlit
+langchain-groq
+langchain-text-splitters
+chromadb
+langchain_huggingface
+bs4
+pypdf
+faiss
+wikipedia

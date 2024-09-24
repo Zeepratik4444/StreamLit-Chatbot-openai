@@ -11,4 +11,4 @@ langchain_huggingface
 bs4
 pypdf
 wikipedia
-faiss-gpu
+faiss-cpu
